@@ -19,5 +19,6 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Input your place: ");
         String place = scanner.nextLine();
+        FindPlace(place);
     }
 }
