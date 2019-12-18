@@ -9,5 +9,6 @@ public class Main {
         System.out.print("Input your place: ");
         String place = scanner.nextLine();
         //Adding comment just for commit
+        // Going just fine. Lets try another one
     }
 }
